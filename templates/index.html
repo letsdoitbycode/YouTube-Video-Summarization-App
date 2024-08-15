@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>YouTube Video Summarizer</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Summarize YouTube Video</h1>
+        <form action="/summarize" method="post">
+            <div class="input-group">
+                <input type="text" name="video_url" placeholder="Paste YouTube video link here" required>
+            </div>
+            <button type="submit">Summarize</button>
+        </form>
+    </div>
+</body>
+</html>
