@@ -53,3 +53,13 @@ YouTube-Video-Summarization-App/
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+
+## DEMO APPLICATION
+---
+
+![Screenshot (7)](https://github.com/user-attachments/assets/2bba3917-d295-4165-971b-1514e32d8b6d)
+
+![Screenshot (8)](https://github.com/user-attachments/assets/c8c1e9e1-1ed1-4ce1-8a17-ead1177312f0)
+
+
